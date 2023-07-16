@@ -61,5 +61,5 @@ opre.1070.0439.
 Gosavi, Abhijit (2014). Simulation-based optimization: parametric optimization techniques and reinforcement learning. New York: Springer. isbn: 978-1-4899-7490-7.
 Luenberger, David G. and Yinyu Ye (July 2015). Linear and Nonlinear Programming. en. 4th ed. 2016 edition. Springer. isbn: 978-3-319-18841-6.
 
-Sutton, Richard S. and Andrew G. Barto (2018). Reinforcement learning: an introduction. en. Second edition. Adaptive computation and machine learning series.
+Sutton, Richard S. and Andrew G. Barto (2018). Reinforcement learning: an introduction. en. Second edition. Adaptive computation and machine learning series.
 Cambridge, Massachusetts: The MIT Press. isbn: 978-0-262-03924-6.
