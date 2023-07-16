@@ -1,3 +1,6 @@
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PQ_DDKtybPYOu60aEphWkZo64BNJOjAH#scrollTo=3oHNhsAj_vgA)
+
 # Bachelor Project: Implementation of learning methods inspired by reinforcement learning for symmetric rendezvous problem on the line
 
 ## Project outline and symmetric rendez-vous problem on the line
