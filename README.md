@@ -1,7 +1,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PQ_DDKtybPYOu60aEphWkZo64BNJOjAH#scrollTo=3oHNhsAj_vgA)
 
-# Bachelor Project: A ML-inspired Approach to Symmetric Rendezvous Problem on the Line
+# Bachelor Project (2021): A ML-inspired Approach to Symmetric Rendezvous Problem on the Line
 
 ## Project outline and symmetric rendez-vous problem on the line
 In the last semester, my bachelor project focused on the symmetric rendez-vous problem on the line where methods were inspired by reinforcement learning.
