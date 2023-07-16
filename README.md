@@ -36,7 +36,8 @@ The code might not work out of the box as it was created in google colab.
 3 directories, 9 files
 ```
 
-- `./documentation` contains my bachelor project report written in French.
+- `./documentation` contains my bachelor project report written in French as well as presentation slides
+I did for another course.
 - `./notebooks` contains one of the notebooks I wrote for my bachelor project
 - `./results` contains a few results I obtained for the project (not all, no images)
 
