@@ -42,3 +42,14 @@ The code might not work out of the box as it was created in google colab.
 
 ## Credits
 
+Han, Qiaoming et al. (June 2008). “Improved Bounds for the Symmetric Rendezvous
+Value on the Line”. In: Operations Research 56.3, pp. 772–782. doi: 10.1287/
+opre.1070.0439.
+
+Gosavi, Abhijit (2014). Simulation-based optimization: parametric optimization techniques and reinforcement learning. New York: Springer. isbn: 978-1-4899-7490-7.
+Luenberger, David G. and Yinyu Ye (July 2015). Linear and Nonlinear Programming. en. 4th ed. 2016 edition. Springer. isbn: 978-3-319-18841-6.
+
+Sutton, Richard S. and Andrew G. Barto (2018). Reinforcement learning: an introduction. en. Second edition. Adaptive computation and machine learning series.
+Cambridge, Massachusetts: The MIT Press. isbn: 978-0-262-03924-6.
+
+
