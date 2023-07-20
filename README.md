@@ -46,7 +46,7 @@ The code might not work out of the box as it was created in google colab.
 
 - `./documentation` contains:
 	- `./documentation/project_report.pdf`: Bachelor project report (in French)
-	- `./documentation/presentation_slides.pdf`: Presentation slides explaining the problem and one particular paper (Han et al.)
+	- `./documentation/presentation_slides.pdf`: Presentation slides explaining the problem and one particular paper (Han et al.) (Author part: explaining as if it's our own work and based on how we interpreted the paper)
 	- `./documentation/project_summary.pdf`: 800 words summary explaining the project
 
 - `./notebooks` contains one of the notebooks I wrote for my bachelor project
